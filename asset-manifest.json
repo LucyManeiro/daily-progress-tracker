@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/daily-progress-tracker/static/css/main.d2e38d2e.chunk.css",
+    "main.js": "/daily-progress-tracker/static/js/main.e05bd9a3.chunk.js",
+    "main.js.map": "/daily-progress-tracker/static/js/main.e05bd9a3.chunk.js.map",
+    "runtime-main.js": "/daily-progress-tracker/static/js/runtime-main.9ebc7571.js",
+    "runtime-main.js.map": "/daily-progress-tracker/static/js/runtime-main.9ebc7571.js.map",
+    "static/js/2.cd129631.chunk.js": "/daily-progress-tracker/static/js/2.cd129631.chunk.js",
+    "static/js/2.cd129631.chunk.js.map": "/daily-progress-tracker/static/js/2.cd129631.chunk.js.map",
+    "index.html": "/daily-progress-tracker/index.html",
+    "static/css/main.d2e38d2e.chunk.css.map": "/daily-progress-tracker/static/css/main.d2e38d2e.chunk.css.map",
+    "static/js/2.cd129631.chunk.js.LICENSE.txt": "/daily-progress-tracker/static/js/2.cd129631.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ebc7571.js",
+    "static/js/2.cd129631.chunk.js",
+    "static/css/main.d2e38d2e.chunk.css",
+    "static/js/main.e05bd9a3.chunk.js"
+  ]
+}
